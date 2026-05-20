@@ -12,7 +12,19 @@
             "color": "214C8B"
         },
         {
+            "route_short_name": "1R",
+            "color": "214C8B"
+        },
+        {
             "route_short_name": "2",
+            "color": "99C353"
+        },
+        {
+            "route_short_name": "2A",
+            "color": "99C353"
+        },
+        {
+            "route_short_name": "2B",
             "color": "99C353"
         },
         {

@@ -45,6 +45,9 @@
         {
             "regex": "(\\s*-\\s*reverse route)$",
             "ignore_case": true
+        },
+        {
+            "regex": "\\s*-\\s*$",
         }
     ],
     "trip_headsign_remove_via": true,

@@ -47,7 +47,9 @@
             "ignore_case": true
         },
         {
-            "regex": "(\\s*\\-\\s*)$"
+            "regex": "(\\s*\\-\\s*via\\s*)",
+            "ignore_case": true,
+            "replacement": " via "
         }
     ],
     "trip_headsign_remove_via": true,

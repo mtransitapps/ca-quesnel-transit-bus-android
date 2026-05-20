@@ -45,14 +45,15 @@
         {
             "regex": "(\\s*-\\s*reverse route)$",
             "ignore_case": true
-        },
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
         {
             "regex": "(\\s*\\-\\s*via\\s*)",
             "ignore_case": true,
             "replacement": " via "
         }
     ],
-    "trip_headsign_remove_via": true,
-    "trip_headsign_cleaners": [],
     "stop_name_cleaners": []
 }

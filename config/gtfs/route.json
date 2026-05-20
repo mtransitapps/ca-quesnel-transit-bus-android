@@ -47,7 +47,7 @@
             "ignore_case": true
         },
         {
-            "regex": "\\s*-\\s*$"
+            "regex": "(\\s*\\-\\s*)$"
         }
     ],
     "trip_headsign_remove_via": true,

@@ -9,35 +9,35 @@
     "route_colors": [
         {
             "route_short_name": "1",
-            "color": "214C8B"
+            "color": "004B8D"
         },
         {
             "route_short_name": "1R",
-            "color": "214C8B"
+            "color": "004B8D"
         },
         {
             "route_short_name": "2",
-            "color": "99C353"
+            "color": "8CC63F"
         },
         {
             "route_short_name": "2A",
-            "color": "99C353"
+            "color": "8CC63F"
         },
         {
             "route_short_name": "2B",
-            "color": "99C353"
+            "color": "8CC63F"
         },
         {
             "route_short_name": "3",
-            "color": "E59135"
+            "color": "F37421"
         },
         {
             "route_short_name": "30",
-            "color": "93358A"
+            "color": "8177B7"
         },
         {
             "route_short_name": "31",
-            "color": "f4B43D"
+            "color": "FCAF17"
         }
     ],
     "direction_finder_enabled": true,
